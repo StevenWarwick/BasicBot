@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/BasicBot/Modules/APIKeys.cs
+/BasicBot/Modules/client_secret_1014582396987-00f1akca9e70fjhq4dqg4k8k392h7hkk.apps.googleusercontent.com.json
