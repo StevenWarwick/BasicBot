@@ -76,7 +76,7 @@ namespace CalendarQuickstart
             }
             else
             {
-                return "No upcoming events found. remove this";
+                return "No upcoming events found.";
             }
             //Console.Read();
 
